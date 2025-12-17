@@ -22,14 +22,14 @@ Este projeto é um **monitor visual de teclas**, com suporte para layouts de tec
 
 ## ▶️ Como Usar
 
-Entre no site: [Monitor De Teclas](https://monitor-de-teclas-efrals.netlify.app)
+Entre no site: [Monitor De Teclas](https://monitordeteclas-efraimrsilva.netlify.app)
 
 OU
 
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/Efrals/monitor-de-teclas.git
+   git clone https://github.com/efraimrsilva/monitor-de-teclas.git
    ```
 
 2. Navegue até a pasta do projeto
